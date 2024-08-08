@@ -1,0 +1,7 @@
+name: Workflow One
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    
